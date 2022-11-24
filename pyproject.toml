@@ -1,0 +1,8 @@
+[tool.isort]
+line_length = 99
+multi_line_output = 3
+include_trailing_comma = true
+sections = ['FUTURE', 'STDLIB', 'THIRDPARTY', 'FIRSTPARTY', 'LOCALFOLDER']
+
+[tool.black]
+line_length = 99

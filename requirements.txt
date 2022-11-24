@@ -1,0 +1,6 @@
+h5py
+keras
+pandas
+numpy
+scipy
+pre-commit
